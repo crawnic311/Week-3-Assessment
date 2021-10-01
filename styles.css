@@ -37,3 +37,10 @@ img {
 	max-width: 300px;
 }
 
+.profile-Btn {
+	min-width: 400px;
+	padding: 20px 40px;
+	background-color: yellow;
+	font-size: 20px;
+	margin: 5px;
+}
