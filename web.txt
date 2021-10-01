@@ -1,0 +1,25 @@
+How does the internet work? What happens when you click on a link?
+
+Fundamentally, the internet is composed of individual computers that are connected
+together in a network. To improve efficiency and communication, the internet is
+now better understood as a network of networks. This means that when I click on a
+link from my individual computer at my home, my computer's web browser parses that
+link into relavent secitons and uses the data in those sections to get me to where
+I'm trying to go on the web.
+
+The http or https is called the internet protocol or IP and it governs how my web 
+browser is allowed to send and receive information from other computers.
+
+The www.domainnamehere.com is the domain name which is an alias for the IP address
+of the server or servers that host the website I am trying to navigate to. This domain
+name is sent by the browser to various DNS services that determine the IP address
+associated with the domain name and then connect me with the device of that IP address.
+
+Once a secure and accurate connection has been made the server determines, or has already
+determined the port to use to communicate with my personal computer. This is not displayed
+in the url.
+
+The path, query, and parameters in the are used to communicate a request from my computer to
+the server. The server has software that interprets those requests and responds accordingly.
+Assuming everything went well, the server repsonds to me with the data I requested via my 
+local computer through my web broswer.
